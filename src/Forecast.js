@@ -45,7 +45,7 @@ export default function Forecast() {
       <div class="col-sm-2">
         <div class="card">
           <div class="card-body shadow">
-            <h5 class="card-title">Wedneday</h5>
+            <h5 class="card-title">Wednesday</h5>
 
             <hr />
             <img
