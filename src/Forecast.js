@@ -16,7 +16,7 @@ export default function Forecast() {
             />
             <span class="weather-forecast-temperature">
               <p class="card-text">
-                <span class="weather-forecast-temperature-max">55°</span> |
+                <span class="weather-forecast-temperature-max">55°</span> | {""}
                 <span class="weather-forecast-temperature-min">44°</span>
               </p>
             </span>
@@ -35,7 +35,7 @@ export default function Forecast() {
             />
             <span class="weather-forecast-temperature">
               <p class="card-text">
-                <span class="weather-forecast-temperature-max">55°</span> |
+                <span class="weather-forecast-temperature-max">55°</span> | {""}
                 <span class="weather-forecast-temperature-min">44°</span>
               </p>
             </span>
@@ -54,7 +54,7 @@ export default function Forecast() {
             />
             <span class="weather-forecast-temperature">
               <p class="card-text">
-                <span class="weather-forecast-temperature-max">55°</span> |
+                <span class="weather-forecast-temperature-max">55°</span> | {""}
                 <span class="weather-forecast-temperature-min">44°</span>
               </p>
             </span>
@@ -73,7 +73,7 @@ export default function Forecast() {
             />
             <span class="weather-forecast-temperature">
               <p class="card-text">
-                <span class="weather-forecast-temperature-max">55°</span> |
+                <span class="weather-forecast-temperature-max">55°</span> | {""}
                 <span class="weather-forecast-temperature-min">44°</span>
               </p>
             </span>
@@ -92,7 +92,7 @@ export default function Forecast() {
             />
             <span class="weather-forecast-temperature">
               <p class="card-text">
-                <span class="weather-forecast-temperature-max">55°</span> |
+                <span class="weather-forecast-temperature-max">55°</span> | {""}
                 <span class="weather-forecast-temperature-min">44°</span>
               </p>
             </span>
