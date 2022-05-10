@@ -66,9 +66,9 @@ export default function Weather() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Open-source code
+          Open-source
         </a>{" "}
-        by Ashley Jungers
+        code by Ashley Jungers
       </div>
     </div>
   );
