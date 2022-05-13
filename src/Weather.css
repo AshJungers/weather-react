@@ -103,7 +103,7 @@ button.current-location-button:hover {
 }
 
 .currentTemp {
-  margin-left: 35px;
+  margin-left: 20px;
 }
 
 .units {
@@ -112,7 +112,7 @@ button.current-location-button:hover {
   font-size: medium;
   position: relative;
   bottom: 40px;
-  left: 75px;
+  left: 60px;
 }
 
 .mb-3 {
