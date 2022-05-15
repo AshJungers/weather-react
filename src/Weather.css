@@ -125,11 +125,15 @@ div.input-group {
   width: 45%;
 }
 
-.future {
+.Forecast {
   text-align: center;
   margin-top: 75px;
   margin-bottom: 30px;
   font-size: larger;
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.6;
 }
 
 .card {

@@ -60,10 +60,6 @@ export default function Weather(props) {
         </form>
         <WeatherInfo data={weatherData} />
 
-        <div className="future">
-          <p>5-day Future Forecast</p>
-        </div>
-        <div className="row justify-content-evenly"></div>
         <Forecast />
         <div className="footer">
           <a
